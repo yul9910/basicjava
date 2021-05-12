@@ -2,7 +2,7 @@
 public class Hellogithub {
 
 	public static void main(String[] args) {
-		System.out.println("¹Ý°©´Ù ±êÇãºê¾ß^___^");
+		System.out.println("Hellogithub^___^");
 	}
 
 }
